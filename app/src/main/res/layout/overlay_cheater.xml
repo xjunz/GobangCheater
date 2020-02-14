@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="?android:colorBackground"
+    android:elevation="3dp"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button11"
+        style="@android:style/Widget.Material.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:textColor="?colorAccent"
+        android:layout_height="wrap_content"
+        android:onClick="prompt"
+        android:text="提示" />
+
+    <Button
+        android:id="@+id/button12"
+        style="@android:style/Widget.Material.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="closeCheater"
+        android:text="关闭" />
+
+
+    <TextView
+        android:id="@+id/anchor"
+        android:text="⊙"
+        android:textColor="?colorAccent"
+        android:textStyle="bold"
+        style="@android:style/Widget.Material.Button.Borderless.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

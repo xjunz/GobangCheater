@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/AIWine-master/src/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/AIWine.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/AIWine.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Board.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Board.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Board.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Chess.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Chess.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/ChessShape.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/ChessShape.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Define.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Define.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Evaluator.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Evaluator.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Evaluator.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/HashTable.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/HashTable.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/HashTable.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/HashTable.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/HashTable.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Search.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Search.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Search.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/main.cpp" charset="GBK" />
+  </component>
+</project>
